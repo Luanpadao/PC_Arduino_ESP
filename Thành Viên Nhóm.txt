@@ -1,0 +1,10 @@
+
+
+			----- ĐIỀU KHIỂN VÀ GIÁM SÁT THIẾT BỊ ĐIỆN TRONG GIA ĐÌNH -----
+
+
+				STT	Họ và Tên		MSSV
+ 				1 	Bạch Hoàng Ân		19490301
+ 				2 	Trần Tiến Anh		19479971
+ 				3 	Nguyễn Phan Châu Huân	19480361
+ 				4 	Nguyễn Thành Luân	19486251
